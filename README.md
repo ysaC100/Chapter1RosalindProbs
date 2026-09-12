@@ -1,0 +1,1 @@
+This file goes through how to solve the clump finding, hamming distance, minimizing skew, most frequent words counting, most frequent words difference, pattern count, pattern difference count, and reverse complement problems from Rosalind.
